@@ -4,7 +4,7 @@
   <project name="cm-gardalte/android_device_samsung_gardalte" path="device/samsung/gardalte" remote="github" />
   <project name="cm-gardalte/android_kernel_samsung_exynos3470" path="kernel/samsung/exynos3470" />
   <project name="cm-gardalte/android_vendor_samsung_gardalte" path="vendor/samsung/gardalte" />
-  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" revision="cm-11.0" />
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" revision="cm-11.0" />
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" />
 
 </manifest>
